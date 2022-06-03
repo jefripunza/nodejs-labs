@@ -1,0 +1,11 @@
+[Hendi Saputra - 21:08]
+kalau misal middleware dibuat untuk membatasi private route, misal user A dengan role 1,  dan user B dengan role 2. Bagaimana cara mengecek rolenya itu?
+
+>> buat 2 buah middleware dengan role yang berbeda, tinggal di asumsikan saja ke router yg kita mau
+
+------------------------------
+
+[Rizky Samuel Purba - 21:13]
+Sekilas tentang framework yang mas buat dong
+
+>> menjelaskan kisah2 terbuatnya jumpboot

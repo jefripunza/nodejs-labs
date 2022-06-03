@@ -1,0 +1,20 @@
+{
+  "name": "belajar-nodejs",
+  "version": "1.0.0",
+  "description": "untuk belajar nodejs ke temen2 IST",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env PORT=1234 node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "belajar",
+    "IST",
+    "NODEJS"
+  ],
+  "author": "Jefri Herdi Triyanto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

@@ -1,0 +1,79 @@
+[Dhimas Bayu Ilham R - 20:22]
+mas jefri di visual studio codenya kok ada ide nya, bagi settingannya dong, tqtq
+
+>> ???
+
+------------------------------
+
+[Decoz ZFX - 20:55]
+mas itu yang replace pakai regex namanya?
+
+>> iya, bisa dicari juga regex2 yang lain di internet dengan keyword yg jelas, misal "javascript regex split camelcase"
+
+------------------------------
+
+[Alif iftitah - 20:57]
+ka, kalo misal nih, kita ambil nilai dari variabel lain, dan kita mau ubah2 dengan nama yang baru, berarti variabel yg lama itu berubah apa tetep kak?
+
+>> nilainya nggak berubah kalau yang dirubah membuat variabel baru
+
+[Cahyo Arif Andiyarto - 20:59]
+beda kayak golang mas wkwk
+eh mbak
+wkwk
+
+------------------------------
+
+[Fauzan - 21:00]
+bang kalo regex dipake buat pengkondisian bisa ga? misal saya bikin bbrp variabel yg namanya terdiri dari alfabet, tapi 3 digit terakhir adalah angka, apa bisa ketangkep semua variabel nya?
+
+>> ada, bisa saja, dan itu sebenarnya juga dicari di google ada. yang penting keyword dari kitanya benar.
+
+------------------------------
+
+[Aguan Agun - 21:02]
+mas jef klo startswith() sma endwith itu ngeset yg awal sama ahir klo custom yng tengahtengah atau acak bisa ga, pakenya apa?
+
+>> bisa, pake includes
+
+------------------------------
+
+[Hendi Saputra - 21:03]
+Bang, regex ini nanti di nodejs implementasinya buat apa ya?
+
+>> bisa buat validation, replacement, converter, dll...
+
+------------------------------
+
+[Decoz ZFX - 21:06]
+mas bedanya find dengan includes apa?
+
+>> find tidak ada didalam Stirng function, tapi kalo includes ada didalam String function
+
+[Andreiy Shevchenko Roring - 21:08]
+array function mas
+
+
+------------------------------
+
+
+
+
+Defect : 
+- rata2 masih mengeluh tentang screen buram padahal settingan udh up dan memakai internet kantor IST
+
+
+
+
+------------------------------
+
+Panitia :
+
+[Amirul Hakim - 20:39]
+izin left, charger ketinggalan di rumah
+
+
+Extra :
+
+[Luqman - 21:10]
+aku dari upn jogja mas
