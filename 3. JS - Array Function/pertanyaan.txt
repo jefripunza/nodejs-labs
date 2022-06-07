@@ -1,0 +1,64 @@
+... Before no Record :'(
+
+------------------------------
+
+# Question :
+
+[Imelda Zahwa - 21:29]
+mas mau tanya nih, bagaimana penggunaan/penulisan REDUCE dalam penginputan tabel ke db yang nanti hasil outputnya berupa object? tetapi di dalam key2 nya itu ada key lagi seperti _text gitu
+
+>> ini adalah case project imelda untuk pengolahan data object untuk menaikan level value nya
+
+[Hendi Saputra - 21:33]
+bang, kalau splice itukan mutable, tapi untuk filter kan immutable, nah di Backend nodejs nanti itu performanya ngaruh gak kira2?
+
+>> bukan hanya backend yang harus difikirkan soal performa, tapi frontend juga perlu untuk kenyamanan pengguna aplikasi supaya tidak terbebani gara2 aplikasi kita yang terlalu banyak proses padahal bisa di persingkat
+
+[Muhamad Ansori - 21:35]
+untuk pendefinisian variabel array atau variabel lain, bisa pakai var, const atau langsung menuliskan variabel. baiknya penulisannya bagaimana? 
+
+>> untuk membuat definisi variable array tidak ada baku nya harus apa, tapi yang jelas pemilihan ini tergantung case nya temen2, tidak bisa disama ratakan harus begini begitu
+
+[Alif iftitah - 21:36]
+Ka, kalo destructing array kan jadinya dalam suatu array kita bisa pisahin array² jadi masing² variabel. Nah, ini sering dipake ga si? 
+Dan efektif & efisien ga kalo digunain?
+Cmiiw
+
+>> bicara soal efisien, sebenernya apapun bisa dilakukan asalkan proses tidak terlalu overthinking terhadap code. bisa jadi kode menjadi lebih banyak gara2 proses yg memang bisa dipersingkat
+
+------------------------------
+
+# Random :
+
+[19-053 SandiPrayogo - 20:50]
+apa sudah dimuali kak
+belom dimuali kak?
+
+[Inneke Cynthia - 20:56]
+mas aku ijin left ya, mau bantuin promote btn mas. nanti klo ada kuis share di wa mungkin hehe
+
+[Alif iftitah - 21:29]
+Masj
+Maap typo tadi hehe
+
+[Imelda Zahwa - 21:51]
+oke mas makasih
+
+[Muhamad Ansori - 22:02]
+👍🏻makasih mas Jefri
+
+[Apriyaldi Lukman - 22:02]
+makasih mas
+sangat bermanfaat ilmu ny
+
+[Wahyu HP - 22:03]
+Makasih Bang👍
+
+[Alan Nauri - 22:09]
+Makasih temen-temen semua, sangat bermanfaat.
+
+------------------------------
+
+# Defect : 
+OBS mati 2x maka video nya jadi 3 biji ini anjjiirrrrr :')
+error message => An encoder error occurred while recording
