@@ -6,7 +6,7 @@ const user = {
 };
 
 // convert Object to string JSON
-const string_of_json = JSON.stringify(user);
+const string_of_json = JSON.stringify(user, null, 2);
 
 // convert string JSON to Object
 const json_string = '{"name":"Jefri", "age":26, "vehicle":null}';

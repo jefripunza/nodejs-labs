@@ -4,9 +4,12 @@ const user = {
   lastName: "Herdi Triyanto",
   age: 26,
   position: "Middle Web Developer (NodeJS)",
-  fullName: function () {
+  get fullName() {
     return this.firstName + " " + this.lastName;
   },
+  // set changePosition(text) {
+  //   this.position = text;
+  // },
 };
 
 // Nested Objects
@@ -19,12 +22,14 @@ const books = {
     url: "https://portofolio.jefripunza.repl.co",
   },
 };
+// console.log({ books });
 
 // Nested Arrays and Objects
 const profile = {
   name: "Jefri Herdi Triyanto",
   hobby: ["Musik", "Renang", "Koding", "Balap Motor", "Gelud"],
 };
+// console.log({ profile });
 
 // Accessing Object Properties
 // normal
@@ -35,12 +40,13 @@ const your_age = user["age"];
 const key = "position";
 const my_position = user[key];
 // or - combine string
-const my_full_name = user.firstName + " " + user.lastName;
-// or - function access
-const my_name = user.fullName();
+// const my_full_name = user.firstName + " " + user.lastName;
+const my_full_name = `${user.firstName} ${user.lastName}`;
+// or - function or getter access
+const my_name = user.fullName;
 
 // manual insert/inject data
-const person = {};
+const person = {}; // object kosong
 // const person = new Object();
 person.firstName = "Jefri";
 person.lastName = "Herdi Triyanto";

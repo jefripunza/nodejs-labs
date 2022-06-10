@@ -1,0 +1,41 @@
+
+------------------------------
+
+# Question :
+
+[Dhimas Bayu Ilham R - 20:23]
+tanya mas jefri, object di javascript ini bisa ada turunan kayak di java gak mas?
+
+>> ada, contoh ada di file "quiz.js" di line 14 sampai 21
+
+[Alif iftitah - 21:01]
+ka, mongo db itu online ya? biasanya kan kalo sistem basis data kan biasanya ver dekstop
+
+>> 
+
+------------------------------
+
+# Random :
+
+[Imelda Zahwa - 20:54]
+izin left dulu, baterai low
+
+[kharisma cm - 21:27]
+belum ada mas
+oke
+
+[Alif iftitah - 21:29]
+waalaikumussalam
+
+[Fransiscus Deni - 21:29]
+Terima kasih bang
+
+[Dhimas Bayu Ilham R - 21:29]
+makasih mas
+
+------------------------------
+
+# Defect : 
+OBS mati 1x maka video nya jadi 2 biji
+error message => An encoder error occurred while recording
+masih sama seperti yang kemaren tp yang ini lebih smooth
