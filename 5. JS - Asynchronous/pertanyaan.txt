@@ -1,0 +1,68 @@
+
+------------------------------
+
+# Question :
+
+[AL MUALIM - 20:33]
+Implementasinya biasa di mana pak??
+Sya msih baru d js :)
+
+>> kalau pertanyaannya implementasi untuk async, maka kita harus tau dulu proses mana yang membutuhkan perlu untuk di tunggu, maka disitulah implementasi nya akan digunakan. karena default dari javascript nya adalah sync
+
+[Dhimas Bayu Ilham R - 20:35]
+apakah bisa mas kalau sync sama async digabung? misal untuk logic update atau insert ke db gitu pakai async tapi logic yang lain pake sync. atau ada best practicenya mas? terima kasih
+
+[Astomo Pancoro Putro - 20:36]
+bisa dong
+
+[Dhimas Bayu Ilham R - 20:38]
+kalau bisa apakah best practicenya harus seperti itu atau ada cara lain yang lebih enak?
+
+[Dhimas Bayu Ilham R - 20:55] (after answer)
+sip mas paham makasih mas
+
+>> jawaban ada di file example.js di line 6-13
+
+[Dhimas Bayu Ilham R - 20:58]
+tanya satu lagi bisa mas?
+
+[Dhimas Bayu Ilham R - 20:59]
+kalau function childnya itu async apakah parent functionnya itu harus async juga mas? contohnya yang di function getUser tadi kan implementasi async dan window.onloadnya dibikin async
+
+>> iya, karena kalo si window.onload nya tidak dikasih tau kalau didalamnya ada proses tunggu maka hasil langsung otomatis jadi "pending". kalau ingin tau ya harus menunggum, jadi wajib pake async, gituuu....
+
+------------------------------
+
+# Random :
+
+[You - 19:05]
+testing
+
+[Wahyu HP - 19:56]
+Assalamu'alaikum
+
+[You - 20:01]
+Wa'alaikumsalam
+
+[You - 20:05]
+kita nunggu temen2 dulu yaa
+
+[Wahyu HP - 20:05]
+Oke siap
+
+[Muji Rahman - 20:07]
+sambil ngopi sik mas endah aja ngantuk.
+
+[Wahyu HP - 21:05]
+Terima Kasih Bang👍
+
+[Dhimas Bayu Ilham R - 21:06]
+Makasih mas ilmunya 
+
+[Inneke Cynthia - 21:06]
+terimakasih mas
+
+------------------------------
+
+# Defect : 
+OBS mati untung pas terakhir doank. pas mau tak selesaikan record nya malah error, dan untungnya ke save
