@@ -1,0 +1,62 @@
+
+------------------------------
+
+# Question :
+
+[ZEN CODE - 20:35]
+kak, boleh tanya bagaimana cara nya menggunakan yarn sebagai   yang utama jika sudah install yarn dan nodejs . kan install nodejs,otomatis terinstall npm nya.
+soalnya pernah pakai yarn,tidak bisa ?
+mungkin ada settingan untuk itu.
+
+>> bukan topik malam ini
+
+[Decoz ZFX - 21:27]
+mas, berarti logic hanya boleh di service saja
+
+>> kalau bisnis logic iya jelas hanya di service saja, tapi kalau logic nya adalah database ya itu urusan repository
+
+[Aziz Maulana - 21:27]
+Apakah mongoDB bisa pake CRUD kaya mysql/posgrest ?
+
+>> bisa, lihat di : repository/userRepository.js
+
+[Decoz ZFX - 21:33]
+negative value = falsy bukan mas?
+
+>> iya, false juga termasuk dalam negative value
+
+------------------------------
+
+# Random :
+
+[Blangkon Art - 20:02]
+Baru kak
+
+[faisal hanafi - 20:03]
+Izin gabung kak
+
+[Blangkon Art - 20:15]
+full scren kak
+
+[Mochammad Zacky Alifyanto - 20:18]
+Belum Full Screen Kak
+Tolong di Full scren
+
+[Blangkon Art - 20:31]
+ak jelas kak
+Gak Jelas Kak
+
+[Arif Gunawan - 20:33]
+yang belum fullscreen, bisa melakukan step:
+1. klik titik tiga pembicara
+2. klik layar penuh/fullscreen
+
+[Dhimas Bayu Ilham R - 21:03]
+izin leave mau promote
+
+[Decoz ZFX - 21:28]
+oke2 tadi sempet dc soalnya
+
+------------------------------
+
+# Defect : 

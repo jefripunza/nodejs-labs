@@ -1,0 +1,18 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "mongodb": "^4.7.0",
+    "morgan": "^1.10.0"
+  }
+}
