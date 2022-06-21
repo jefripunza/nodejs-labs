@@ -1,0 +1,6 @@
+{
+  "ignore": ["src/public/*", "src/static/*", "*.json", "dist/*", "build/*"],
+  "watch": ["./"],
+  "exec": "npx ts-node ./src/index.ts",
+  "ext": "ts"
+}

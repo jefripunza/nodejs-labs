@@ -1,0 +1,110 @@
+
+------------------------------
+
+# Question :
+
+[Fareza Imc - 20:40]
+Cart nya, dibikin berbeda dengan table baru yah. Om jefri?
+
+>> mungkin maksudnya, cart service itu punya database sendiri dan buat table sendiri
+
+[Xannelf - 20:41]
+Contoh bussines logic seperti apa mas?
+Ok
+
+>> yea seperti cart / keranjang tadi, kan dia butuh user service dengan product service kan? tapi logic bisnis nya tetep di dalam cart service
+
+[Alif iftitah - 21:46]
+ka, mau tanya ni. Dari yang aku tau, kalo misal mau hit API, biasanya ada API contract nya, jadi mirip signature. Kalo kita mau akses, harus tau kunci nya apa baru bisa ambil dari API itu.
+betul gitu bukan ka? kalo salah mohon koreksi ya
+
+>> iya, sama seperti misal ada api yang tidak perlu menggunakan token brarti bisa di akses langsung tanpa tau siapa sih yang akses, atau perlu menggunakan token seperti insert, update, delete supaya tau siapa sih yang mengolah data ini,, gituuu
+
+------------------------------
+
+# Random :
+
+[herygaes - 20:18]
+di aku kok buram ya share screen nya
+
+[Alif iftitah - 20:21]
+waalaikumussalam kak
+
+[Fareza Imc - 20:21]
+Wa'alaikumsalam
+
+[Wahyu HP - 20:21]
+Wa'alaikumsalam
+
+[Fareza Imc - 20:21]
+Tentang apa?
+
+[Fareza Imc - 20:24]
+Gantengan di foto nya om, jefri
+
+[Decoz ZFX - 20:24]
+bli jefri
+
+[Fareza Imc - 20:25]
+Trial 7day
+
+[soraya aya - 20:27]
+buram mas
+
+[Alif iftitah - 20:28]
+di setting gmeet nya, video di setting HD kak
+di aku jadi
+
+[Xannelf - 20:29]
+maap ini emang ngak ada suaranya / cuma punya sya
+
+[Fareza Imc - 20:29]
+Di saya, ada
+
+[herygaes - 20:30]
+coba tekan m saya tau te mute suaranya
+
+[Fareza Imc - 20:54]
+Aman
+
+[Alif iftitah - 20:54]
+aman aman
+
+[You - 20:55]
+yarn add express morgan dotenv axios
+------------------------------------------------------
+yarn add -D typescript ts-node tslint @vercel/ncc @types/express @types/morgan @typescript-eslint/eslint-plugin @typescript-eslint/parser cross-env
+-------------------------------------------------------
+  "scripts": {
+    "start": "node ./dist",
+    "dev": "npx nodemon",
+    "lint": "npx eslint src/**/*.ts",
+    "clean": "npx cross-env rm -rf ./dist",
+    "reset": "npx cross-env rm -rf ./node_modules && yarn install",
+    "compile": "npx yarn clean && npx ncc build ./src/index.ts --no-cache",
+    "build": "npx yarn compile",
+    "test": ""
+  },
+
+[Wahyu HP - 22:01]
+Terima Kasih Bang
+
+[Makoto Megumi - 22:02]
+Makasih bang
+
+[Inneke Cynthia - 22:02]
+terimakasih bang ilmunya
+
+[herygaes - 22:02]
+Terima kasih atas ilmunya mas
+
+[Makoto Megumi - 22:02]
+Waalaikumsalam wr wb
+
+------------------------------
+
+# Defect : 
+OBS mati 3x maka video nya jadi 4 biji ini anjjiirrrrr :')
+error message => An encoder error occurred while recording
+
+katanya ada yg masih buram dan ada yg tidak masuk audio (katanya)
