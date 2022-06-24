@@ -1,0 +1,115 @@
+
+------------------------------
+
+# Question :
+
+[kharisma cm - 20:44]
+Mas Jefri, kalau keunggulan dan contoh implementasinya dari database relasional vs database non-relasional apa saja ya ? Terima kasih
+
+>> kalo No SQL itu adalah Not Only SQL, berarti kita tidak hanya bisa SQL saja dan bisa lebih dari itu
+
+[ChildaSaraah Shopia - 21:33]
+Izin nanya mas... beda my sql dgn postgree apa aja yaa
+
+>> kalo NYSQL itu dari database>table, tapi kalau postgres itu database>schema>table
+
+[Alif iftitah - 21:34]
+Kalo di node js, tiap token misal bukan tipe bearer, itu bakal di tolak apa gimana ka?
+
+>> kalo menggunakan JumpBoot tidak masalah mau dari bearer, body, query, x-auth-token,, semuanya bisa
+
+[Alif iftitah - 21:36]
+Nitip satu lagi ka hehe
+Kenapa si setiap konfigurasi apapun, misal koneksi db, secret key dll biasanya ditaroh di .env?
+Apakah lebih aman atau gimana?
+Biasanya kalo bikin, cuma oh,  di env , tanpa tau itu guna nya apa ka😅
+
+>> kita harus tau ada yang namanya environment handling, seperti Dev, SIT, UAT, Production,, jadi variable nya tetap sama hanya saja value nya tiap env berbeda
+
+[ChildaSaraah Shopia - 21:36]
+postgree Bisa handel big data kah?
+Mksh sblmny Mas
+
+>> sangat bisaaa
+
+[Muji Rahman - 21:41]
+mas jef... kalo  kita buat aplikasi  bisa pake keduanya ngak, database sql dan no sql ?
+
+>> kalo di JumpBoot bisa, tinggal atur di src/app/database.ts
+
+[Muji Rahman - 21:55]
+yg semangat bang ngedit vidionya .... ane mau nonton ulang wkwkw.. upload ke youtubekan?
+
+>> iya, ini adalah video terakhir aku di Sharing Session kali ini
+
+[ChildaSaraah Shopia - 21:56]
+python kpn mas? Mksh sharing ilmu nya Mas...
+Siap.
+Devops mantappp
+
+>> di sini tidak ada materi Python
+
+------------------------------
+
+# Random :
+
+[Wahyu HP - 20:38]
+Ini punya saya doang yang burem atau ada yang sama?
+
+[Rizky Dharma Andika Raya - 20:39]
+sama bang
+
+[Yurike Ratih - 20:39]
+Sama
+
+[Wahyu HP - 20:39]
+Ga bisa baca apa yang di jelasin wkwk
+
+[ChildaSaraah Shopia - 20:44]
+Ada semut masuk mas
+
+[Yurike Ratih - 20:45]
+Gabisa dibaca
+
+[ChildaSaraah Shopia - 20:45]
+Ono semute
+
+[Yurike Ratih - 20:47]
+Aman
+
+[ChildaSaraah Shopia - 21:36]
+Oo skema... lebih bisa handel db dlm jumlah data besar ya kalo postgree krn suka dipake di erp
+
+[ChildaSaraah Shopia - 21:42]
+Bantu jawa Mas ... Bisa..
+
+[Muji Rahman - 21:42]
+thankyou.. 
+
+[ChildaSaraah Shopia - 21:42]
+Izin batu jawab
+
+[ChildaSaraah Shopia - 21:50]
+Kereeeennnn
+
+[Aguan Agun - 21:58]
+Makasih mas jef
+
+[Makoto Megumi - 21:58]
+Terima kasih bang
+
+[Alif iftitah - 21:58]
+Waalaikumussalam ka
+Siapp
+Makasih ka
+
+[Wahyu HP - 21:58]
+Makasih Bang
+
+[Yurike Ratih - 21:58]
+Makasih bang
+
+------------------------------
+
+# Defect : 
+- katanya burem layar, kok bisa

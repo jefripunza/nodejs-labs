@@ -11,7 +11,7 @@
 | Javascript - Asynchronous                                              | Selasa, 14 Juni 2022 | https://www.youtube.com/watch?v=0R2xeryER2A&list=PLLHJgZqFAUPgjdngVmGqqiVJG3EuIx1wZ&index=6 |
 | NodeJS : Simple REST API App (register & login) (MongoDB) (javascript) | Jumat, 17 Juni 2022  | https://www.youtube.com/watch?v=0R2xeryER2A&list=PLLHJgZqFAUPgjdngVmGqqiVJG3EuIx1wZ&index=7 |
 | NodeJS : Simple Service (typescript)                                   | Selasa, 21 Juni 2022 | https://www.youtube.com/watch?v=0R2xeryER2A&list=PLLHJgZqFAUPgjdngVmGqqiVJG3EuIx1wZ&index=8 |
-| NodeJS : JUMPBOOT Framework (typescript)                               | Jumat, 24 Juni 2022  | Coming Soon... (Last Episode)                                                               |
+| NodeJS : JUMPBOOT Framework (typescript)                               | Jumat, 24 Juni 2022  | https://www.youtube.com/watch?v=0R2xeryER2A&list=PLLHJgZqFAUPgjdngVmGqqiVJG3EuIx1wZ&index=9 |
 
 ---
 
